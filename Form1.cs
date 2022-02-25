@@ -13,7 +13,8 @@ namespace LogoKaresz
 		/* Függvények vége */
 		void FELADAT()
 		{
-			/* Ezt indítja a START gomb! */
+            /* Ezt indítja a START gomb! */
+            Console.WriteLine("...");
 			// Teleport(közép.X, közép.Y+150, észak);
 		}
 	}
