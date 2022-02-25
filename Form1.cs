@@ -16,6 +16,10 @@ namespace LogoKaresz
 			/* Ezt indítja a START gomb! */
 			// Teleport(közép.X, közép.Y+150, észak);
 			MessageBox.Show(" Szia Lajos!");
+			MessageBox.Show(" Uhhh bazdmeg ez nem is Lajos ");
+			MessageBox.Show(" Szia Lajos!");
+			MessageBox.Show(" Szia Lajos!");
+
 		}
 	}
 }
