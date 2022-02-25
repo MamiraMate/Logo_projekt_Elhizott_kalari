@@ -22,6 +22,7 @@ namespace LogoKaresz
 			MessageBox.Show(" Szia uram!");
 			MessageBox.Show(" Érdekel fiat500 rabláshoz?!");
 			
+			
 
 
 		}
