@@ -19,6 +19,8 @@ namespace LogoKaresz
 			MessageBox.Show(" hány fokos?! ");
 			MessageBox.Show(" Szia Lajos!");
 			MessageBox.Show(" Szia Lajos!");
+			MessageBox.Show(" Szia uram!");
+			MessageBox.Show(" Érdekel fiat500 rabláshoz?!");
 
 		}
 	}
