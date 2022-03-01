@@ -19,7 +19,8 @@ namespace LogoKaresz
 
 			/// lehetséges feladatok
 
-			/* széle: Máté
+			/*
+			 * széle: Máté
 			 * tetején lévő madár: 
 			 * várnak a torony része (amelyik kilóg a téglalapból):
 			 * felül lévő virág a vár mellett:
@@ -30,7 +31,7 @@ namespace LogoKaresz
 			 * alul lévő zöld-fehér kerek virág:
 			 * alul lévő zöld-fehér elnyújtott virág:
 			 * alul lévő fehér magas virág:
-			 */
+			*/
 		}
 	}
 }
