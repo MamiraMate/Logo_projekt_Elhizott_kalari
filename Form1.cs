@@ -17,6 +17,8 @@ namespace LogoKaresz
 			// Teleport(közép.X, közép.Y+150, észak);
 
 
+			/// Tanár Úr megkérte, hogy inkább új LogoKareszt hozzunk létre a legújabb verzióval
+
 			/// lehetséges feladatok
 
 			/*
